@@ -241,7 +241,7 @@ Untuk kode java yang digunakan ada pada folder Java_Wordcount
 
 
 ## Visualization
-
+![java_vs_hadoop_graph.png](image/java_vs_hadoop_graph.png)
 
 
 # Analisis
