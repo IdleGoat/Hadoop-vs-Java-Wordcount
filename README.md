@@ -222,7 +222,7 @@ http://localhost:8088/cluster
 | Skenario 3    | 100    | Java dan Hadoop    | 
 | Skenario 4    | 250    | Java dan Hadoop    | 
 | Skenario 5    | 500    | Java dan Hadoop    | 
-| Skenario 6   | 1000    | Java dan Hadoop    |
+
 
 Kode yang digunakan pada testing kali ini adalah kode wordcount bawaan dari Hadoop yaitu hadoop-mapreduce-examples-3.3.2 yang terlampir pada folder github.
 
@@ -236,7 +236,7 @@ Untuk kode java yang digunakan ada pada folder Java_Wordcount
 | 100    | 6.65 s   | 16 s   | 17 s    |
 | 250    | 23.83 s   | 33 s    | 31 s    |
 | 500    | 32.253 s   | 46 s   | 46 s    |
-| 1000   | 66.087 s   | 64 s  | Row 6    |
+
 
 
 
