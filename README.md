@@ -11,7 +11,8 @@
    3. [Hasil Running Time](#Hasil-Running-Time)
    4. [Visualization](#Visualization)
 4. [Analisis](#Analisis)
-5. [Referensi](#Referensi)
+5. [Kesimpulan](#Kesimpulan)
+6. [Referensi](#Referensi)
 
 # Kelompok 9 - SBD02 
 - Albertus Timothy Gunawan (2106639472)
